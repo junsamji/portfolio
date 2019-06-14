@@ -28,7 +28,9 @@
   ### 주요 수행 업무 
 
   - 조선기가재 ERP개발 및 운영(유지보수) 수행
+  
   - 그룹웨어 시스템 운영 (IBM Lotus Notes Solution)
+  
     `VisualBasic 6.0, VB.NET, C#.NET, ASP .NET`
 
   ### 프로젝트
@@ -51,7 +53,7 @@
   
   - 전사 통합 자산관리 (자산등록, 자산지급, 자산반납, 자산이동, 자산폐기 등)
   
-     `VB.NET, MSSQL, Farpoint Spread`
+    `VB.NET, MSSQL, Farpoint Spread`
   
   ## 세정 I&C (since 2013.10 ~ )
   
