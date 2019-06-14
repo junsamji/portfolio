@@ -19,14 +19,15 @@
   - 세정그룹 세정I&C ( ERP / 그룹웨어 / ITSM 등)
   
 
-  ## Bn그룹 (since 2011.11 ~ 2013.09)
+  ## Bn (since 2011.11 ~ 2013.09)
   
   ![history-1](assets/Bn.png)
 
-  ### 주 업 무 
+  ### 주요 수행 업무 
 
-  - VisualBasic 6.0, VB.NET, C#.NET, ASP .NET을 이용한 조선기가재 ERP개발 및 운영(유지보수) 수행
-  - 그룹웨어 시스템 운영 (IBM Lotus Notes)
+  - 조선기가재 ERP개발 및 운영(유지보수) 수행
+  - 그룹웨어 시스템 운영 (IBM Lotus Notes Solution)
+    `VisualBasic 6.0, VB.NET, C#.NET, ASP .NET`
 
   ### 프로젝트
 
@@ -46,5 +47,19 @@
 
   #### 자산관리 시스템
   
-  - ing...
+  - 전사 통합 자산관리 (자산등록, 자산지급, 자산반납, 자산이동, 자산폐기 등)
   
+     `VB.NET, MSSQL, Farpoint Spread`
+  
+  ## 세정 I&C (since 2013.10 ~ )
+  
+  ![history-2](assets/Sejung.png)
+  
+  ### 주요 수행 업무 
+
+  - ERP(인사,회계 모듈) / e-HR 시스템 개발 및 운영
+  - 그룹웨어(EnterprisePotal) 개발 및 운영 (Samsung SDS Acube Solution)
+  
+  ### 프로젝트
+  
+  ...ing...
