@@ -12,11 +12,13 @@
   - JAVA, JSP, JavaScript, HTML, CSS, Vue.js, VisualBasic, C#
   - Oracle, MSSQL
 
-- 대표 경력
+- 직장 경력
 
   - Bn그룹 전산실 ( ERP / 그룹웨어 개발 및 운영  등)
   
   - 세정그룹 세정I&C ( ERP / 그룹웨어 / ITSM 등)
+  
+  
   
 
   ## Bn (since 2011.11 ~ 2013.09)
