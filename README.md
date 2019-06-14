@@ -34,14 +34,14 @@
   
   - B/L관리, Order관리, 세금계산서관리 프로그램 개발
   
-  `C# ASP.NET, MSSQL, DevExpress Component`
+    `C# ASP.NET, MSSQL, DevExpress Component`
   
    
   #### CCM ( 골프장 통합관리 - 레이포드CC )
   
   - 직원관리, 캐디관리, 회원관리, 예약/문자발송 시스템 개발
   
-  `VB.NET, Oracle, Farpoint Spread` 
+    `VB.NET, Oracle, Farpoint Spread` 
 
 
   #### 자산관리 시스템
