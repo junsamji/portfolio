@@ -12,7 +12,7 @@
   - JAVA, JSP, JavaScript, HTML, CSS, Vue.js, VisualBasic, C#
   - Oracle, MSSQL
 
-- 직장 경력
+- 경력
 
   - Bn그룹 전산실 ( ERP / 그룹웨어 개발 및 운영  등)
   
@@ -27,7 +27,7 @@
 
   ### 주요 수행 업무 
 
-  - 조선기가재 ERP개발 및 운영(유지보수) 수행
+  - ERP개발 및 운영
   
   - 그룹웨어 시스템 운영 (IBM Lotus Notes Solution)
 
@@ -63,8 +63,18 @@
   ### 주요 수행 업무 
 
   - ERP(인사,회계 모듈) / e-HR 시스템 개발 및 운영
-  - 그룹웨어(EnterprisePotal) 개발 및 운영 (Samsung SDS Acube Solution)
+  - 그룹웨어(EnterprisePotal) 개발 및 운영
   
   ### 프로젝트
   
-  ...ing...
+  #### BI 도입/구축
+  
+  ![project01](assets/sas.png)
+  
+  - 그룹 관계사 SAS D/W(DatawareHouse) 디자인/설계
+  
+    `Oracle, SAS Solution`
+
+  #### 기상관측 정보 시스템
+  
+  ![project02](assets/BS_City.png)
