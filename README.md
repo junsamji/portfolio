@@ -34,21 +34,21 @@
 
   ### 프로젝트
 
-  #### Cargo System
+  #### ▷Cargo System
   
   - B/L관리, Order관리, 세금계산서관리 프로그램 개발
   
     `C# ASP.NET, MSSQL, DevExpress Component`
   
    
-  #### CCM ( 골프장 통합관리 - 레이포드CC )
+  #### ▷CCM ( 골프장 통합관리 - 레이포드CC )
   
   - 직원관리, 캐디관리, 회원관리, 예약/문자발송 시스템 개발
   
     `VB.NET, Oracle, Farpoint Spread` 
 
 
-  #### 자산관리 시스템
+  #### ▷자산관리 시스템
   
   - 전사 통합 자산관리 (자산등록, 자산지급, 자산반납, 자산이동, 자산폐기 등)
   
@@ -70,7 +70,7 @@
   
   ### 프로젝트
   
-  #### BI 도입/구축
+  #### ▷BI 도입/구축
   
   ![project01](assets/sas.png)
   
@@ -79,7 +79,7 @@
     `Oracle, SAS Solution`
 
 
-  #### 기상관측 정보 시스템 구축
+  #### ▷기상관측 정보 시스템 구축
   
   ![project02](assets/BS_City.png)
   
@@ -89,11 +89,11 @@
   
     `ASP + FusionCharts, C#.NET, Tebero DB, MySQL`
     
-  #### POS Framework 개발
+  #### ▷POS Framework 개발
   
   ![project03](assets/POS.png)
   
-  - 기존 Web POS -> C/S 프로그램용 개발을 위한 프레임워크 개발
+  -  C/S 프레임워크 개발 (Web POS의 브라우저 환경에 따른 다양한 문제점 보완 및 성능 향상) 
   
     `C#.NET + DevExpress Famework, JAVA(Rest API), Oracle`
 
