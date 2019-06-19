@@ -66,6 +66,7 @@
 
   - ERP(인사,회계 모듈) / e-HR 시스템 개발 및 운영
   - 그룹웨어(EnterprisePotal) 개발 및 운영
+  - ITSM 아웃소싱 (매출/매입 계약 및 업체 관리)
   
   ### 프로젝트
   
@@ -73,10 +74,26 @@
   
   ![project01](assets/sas.png)
   
-  - 그룹 관계사 SAS D/W(DatawareHouse) 디자인/설계
+  - 그룹 관계사 D/W(DatawareHouse) 디자인/설계
   
     `Oracle, SAS Solution`
 
-  #### 기상관측 정보 시스템
+
+  #### 기상관측 정보 시스템 구축
   
   ![project02](assets/BS_City.png)
+  
+  - 부산시 강우, 수위, 조위, 풍향풍속 센서 데이터 수집 및 실시간 모니터링 시스템 개발
+  
+  - 경계/위험 수준에 따른 상황 싸인타워 작동 및 담당자 문자 발송을 위한 MiddleWare 개발
+  
+    `ASP + FusionCharts, C#.NET, Tebero DB, MySQL`
+    
+  #### POS Framework 개발
+  
+  ![project03](assets/POS.png)
+  
+  - 기존 Web POS -> C/S 프로그램용 개발을 위한 프레임워크 개발
+  
+    `C#.NET + DevExpress Famework, JAVA(Rest API), Oracle`
+
