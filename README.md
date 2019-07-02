@@ -13,14 +13,14 @@
   - Oracle, MSSQL
 
 - 경력
-  - [test](#Bn)
-  - Bn그룹 전산실 ( ERP / 그룹웨어 개발 및 운영  등)
+
+  - [Bn그룹 전산실 (2011.11 ~ 2013.09)](#Bn)
   
-  - 세정그룹 세정I&C ( ERP / 그룹웨어 / ITSM 등)
+  - [세정그룹 세정I&C (2013.10 ~)](#세정I&C)
   
   
   
-  ## Bn 
+  ## Bn
   (since 2011.11 ~ 2013.09)
   
   ![history-1](assets/Bn.png)
@@ -58,7 +58,7 @@
   
   
   
-  ## 세정 I&C (since 2013.10 ~ )
+  ## 세정 I&C
   
   ![history-2](assets/Sejung.png)
   
