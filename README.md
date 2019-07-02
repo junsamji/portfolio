@@ -21,7 +21,6 @@
   
   
   ## Bn
-  (since 2011.11 ~ 2013.09)
   
   ![history-1](assets/Bn.png)
 
