@@ -95,4 +95,16 @@
   -  C/S 프레임워크 개발 (Web POS의 브라우저 환경에 따른 다양한 문제점 보완 및 성능 향상) 
   
     `C#.NET + DevExpress Famework, JAVA(Rest API), Oracle`
+      
+  #### ▷기간계 시스템 연계
+  
+  -  통합쇼핑몰 구축, 복합 쇼핑몰 구축에 따른 그룹사 기간계 시스템 연계 프로젝트 수행 
+  
+    `JAVA, JSP, Spring, C#.NET, REST API, Oracle`
 
+  #### ▷e-HR 시스템
+  
+  -  그룹내 주요(3사) 계열사 성과평가 개편 및 역량평가 신규 개발
+  -  그룹내 e-HR시스템 통합(인사,급여,연말정산 통합,평가시스템 통합, 조직관리 등) 
+  
+    `JAVA, JSP, Webix, Spring, Mybatis, Oracle`
