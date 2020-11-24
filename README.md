@@ -1,15 +1,15 @@
 # Portfolio
 
 - 이름 : 지준삼
-- 생년월일 : 1984.09.30 (만 35세)
+- 생년월일 : 1984.09.30 (만 36세)
 
 - 경력
 
-  - 웹 개발 약 5년
-  - C/S 개발 약 2년
+  - 웹 개발 5년
+  - C/S 개발 3년
 
 - 주 언어 및 보조 언어
-  - JAVA, JSP, JavaScript, HTML, CSS, Vue.js, VisualBasic, C#
+  - JAVA, JSP, JavaScript, HTML, CSS, VisualBasic, C#
   - Oracle, MSSQL
 
 - 경력
