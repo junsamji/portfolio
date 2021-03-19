@@ -19,7 +19,7 @@
   
   
   ##
-  ## Bn
+  # Bn
   
   ![history-1](assets/Bn.png)
 
@@ -56,7 +56,7 @@
   
   
   ##
-  ## 세정 I&C
+  # 세정 I&C
   
   ![history-2](assets/Sejung.png)
   
@@ -111,7 +111,7 @@
 
 
 ##
-## 한글과컴퓨터
+# 한글과컴퓨터
 ![history-3](assets/hancom.png)
 
 
