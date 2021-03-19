@@ -5,17 +5,18 @@
 
 - 경력 : 2011.11.01 ~ 재직중 (9년)
 
-- 주 언어 및 보조 언어
+- 기술 스택
   - JAVA, JSP, JavaScript, HTML, CSS, VisualBasic, C#
   - Oracle, MSSQL
+  - Docker, Jenkins Self Study
 
 - 경력
 
-  - [Bn그룹 전산실 (2011.11 ~ 2013.09)](#Bn)
+  - [Bn그룹 바이펙스 (2011.11 ~ 2013.09)](#Bn)
   
   - [세정그룹 세정I&C (2013.10 ~ 2019.08)](#세정-ic)
 
-  - [한글과컴퓨터 (2019.09 ~)](#한글과컴퓨터)
+  - [(주)한글과컴퓨터 (2019.09 ~)](#한글과컴퓨터)
   
   
   ##
@@ -110,12 +111,27 @@
 
 
 
-##
-# 한글과컴퓨터
-![history-3](assets/hancom.png)
+  ##
+  # 한글과컴퓨터
+  
+  ![history-3](assets/hancom.png)
 
+  ### 주요 수행 업무 
 
+  - ERP (영림원 K-System) 커스텀 개발 및 운영
+  - eHR시스템 개발 및 운영
+  - 채널웹(총판/대리점 영업관리)개발 및 운영
+  - 내/외부시스템 연동
 
+  ### 프로젝트
+ 
+  #### ▷CRM
+  
+  - 채널웹 고도화
+  - RESTfulAPI 개발
+  - ERP시스템 연동 개발
+
+  `JAVA, SpringBoot, Docker, Jenkins, PostgreSQL`
 
 ##
 ## [처음으로](#Portfolio)
