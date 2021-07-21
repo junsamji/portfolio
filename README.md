@@ -1,14 +1,14 @@
 # Portfolio
 
-- 이름 : 지준삼
-- 생년월일 : 1984.09.30
+- 이름 : 지준삼 (1984년생)
 
-- 경력 : 2011.11.01 ~ 재직중 (10년차)
+- 직무 경력 : 2011.11.01 ~ 재직중
 
-- 기술 스택
-  - JAVA, JSP, JavaScript, HTML, CSS, VisualBasic, C#
+- Skill & Tool
+  - Java, JavaScript, VisualBasic, C#
+  - Spring, SpringBoot, .NET
   - Oracle, MSSQL
-  - Docker, Jenkins Self Study
+  - Docker, Jenkins
 
 - 경력
 
