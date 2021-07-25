@@ -1,0 +1,10 @@
+.divC {
+    align-items: center;
+    justify-content: center;
+    margin: 0px;
+}
+
+div .homediv{
+    padding-left: 15px;
+    height: 80vh;
+}

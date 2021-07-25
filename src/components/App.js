@@ -1,11 +1,14 @@
-import React from 'react';
+import React, { useState } from 'react';
 import Navbar from './Nav/Navbar';
+import Body from './Pages/Body';
 
 function App() {
+  const [path, setPath] = useState("/");
+
   return (
     <div className="App">
       <Navbar />
-      App
+      <Body />
     </div>
   );
 }
