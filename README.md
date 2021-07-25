@@ -1,70 +1,137 @@
-# Getting Started with Create React App
+# Portfolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+- 이름 : 지준삼 (1984년생)
 
-## Available Scripts
+- 직무 경력 : 2011.11.01 ~ 재직중
 
-In the project directory, you can run:
+- Skill & Tool
+  - Java, JavaScript, VisualBasic, C#
+  - Spring, SpringBoot, .NET
+  - Oracle, MSSQL
+  - Docker, Jenkins
 
-### `yarn start`
+- 경력
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+  - [Bn그룹 바이펙스 (2011.11 ~ 2013.09)](#Bn)
+  
+  - [세정그룹 세정I&C (2013.10 ~ 2019.08)](#세정-ic)
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+  - [(주)한글과컴퓨터 (2019.09 ~)](#한글과컴퓨터)
+  
+  
+  ##
+  # Bn
+  
+  ![history-1](assets/Bn.png)
 
-### `yarn test`
+  ### 주요 수행 업무 
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+  - ERP개발 및 운영
+  
+  - 그룹웨어 시스템 운영 (IBM Lotus Notes Solution)
 
-### `yarn build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+  ### 프로젝트
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+  #### ▷Cargo System
+  
+  - B/L관리, Order관리, 세금계산서관리 프로그램 개발
+  
+    `C# ASP.NET, MSSQL, DevExpress Component`
+  
+   
+  #### ▷CCM ( 골프장 통합관리 - 레이포드CC )
+  
+  - 직원관리, 캐디관리, 회원관리, 예약/문자발송 시스템 개발
+  
+    `VB.NET, Oracle, Farpoint Spread` 
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `yarn eject`
+  #### ▷자산관리 시스템
+  
+  - 전사 통합 자산관리 (자산등록, 자산지급, 자산반납, 자산이동, 자산폐기 등)
+  
+    `VB.NET, MSSQL, Farpoint Spread`
+  
+   
+  
+  
+  ##
+  # 세정 I&C
+  
+  ![history-2](assets/Sejung.png)
+  
+  ### 주요 수행 업무 
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+  - ERP(인사,회계 모듈) / e-HR 시스템 개발 및 운영
+  - 그룹웨어(EnterprisePotal) 개발 및 운영
+  - ITSM 아웃소싱 (매출/매입 계약 및 업체 관리)
+  
+  ### 프로젝트
+  
+  #### ▷BI 도입/구축
+  
+  ![project01](assets/sas.png)
+  
+  - 그룹 관계사 D/W(DatawareHouse) 디자인/설계
+  
+    `Oracle, SAS Solution`
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+  #### ▷기상관측 정보 시스템 구축
+  
+  ![project02](assets/BS_City.png)
+  
+  - 부산시 강우, 수위, 조위, 풍향풍속 센서 데이터 수집 및 실시간 모니터링 시스템 개발
+  
+  - 경계/위험 수준에 따른 상황 싸인타워 작동 및 담당자 문자 발송을 위한 MiddleWare 개발
+  
+    `ASP + FusionCharts, C#.NET, Tebero DB, MySQL`
+    
+  #### ▷POS Framework 개발
+  
+  ![project03](assets/POS.png)
+  
+  -  C/S 프레임워크 개발 (Web POS의 브라우저 환경에 따른 다양한 문제점 보완 및 성능 향상) 
+  
+    `C#.NET + DevExpress Famework, JAVA(Rest API), Oracle`
+      
+  #### ▷기간계 시스템 연계
+  
+  -  통합쇼핑몰 구축, 복합 쇼핑몰 구축에 따른 그룹사 기간계 시스템 연계 프로젝트 수행 
+  
+    `JAVA, JSP, Spring, C#.NET, REST API, Oracle`
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+  #### ▷e-HR 시스템
+  
+  -  그룹내 주요(3사) 계열사 성과평가 개편 및 역량평가 신규 개발
+  -  그룹내 e-HR시스템 통합(인사,급여,연말정산 통합,평가시스템 통합, 조직관리 등) 
+  
+    `JAVA, JSP, Webix, Spring, Mybatis, Oracle`
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+  ##
+  # 한글과컴퓨터
+  
+  ![history-3](assets/hancom.png)
 
-### Code Splitting
+  ### 주요 수행 업무 
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+  - ERP (영림원 K-System) 커스텀 개발 및 운영
+  - eHR시스템 개발 및 운영
+  - 채널웹(총판/대리점 영업관리)개발 및 운영
+  - 내/외부시스템 연동
 
-### Analyzing the Bundle Size
+  ### 프로젝트
+ 
+  #### ▷CRM
+  
+  - 채널웹 고도화
+  - RESTfulAPI 개발
+  - ERP시스템 연동 개발
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+  `JAVA, SpringBoot, Docker, Jenkins, PostgreSQL`
 
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+##
+## [처음으로](#Portfolio)
