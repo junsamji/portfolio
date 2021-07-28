@@ -1,10 +1,10 @@
 import React from 'react';
 import {AnimatedOnScroll} from "react-animated-css-onscroll";
 
-import './Body.css';
+import './Home.css';
 
 
-function Body() {
+function Home() {
     return (
         <div className="divC">
             <AnimatedOnScroll animationOut="fadeOut" animationInDuration={600}>
@@ -49,4 +49,4 @@ function Body() {
     );
 };
 
-export default Body;
+export default Home;
