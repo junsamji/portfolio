@@ -18,7 +18,7 @@ const Navbar = () => {
   return (
     <Nav>
       <div className="logo">
-        Nav Bar
+        PF
       </div>
       <Burger />
     </Nav>

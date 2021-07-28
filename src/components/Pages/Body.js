@@ -16,7 +16,7 @@ function Body() {
                 <h1> Home </h1>
             </div>
             </AnimatedOnScroll>
-            <AnimatedOnScroll animationIn="fadeIn" animationOut="fadeOut" animationInDuration={600}>
+            <AnimatedOnScroll animationIn="slideInUp" animationInDuration={1000}>
             <div className="homediv">
                 <h2>test</h2>
                 <h2>test</h2>
@@ -26,7 +26,7 @@ function Body() {
                 <h2>test</h2>
             </div>
             </AnimatedOnScroll>
-            <AnimatedOnScroll animationIn="fadeIn" animationOut="fadeOut" animationInDuration={600}>
+            <AnimatedOnScroll animationIn="slideInUp" animationInDuration={1000}>
             <div className="homediv">
                 <h1> Home </h1>
                 <h1> Home </h1>
@@ -35,7 +35,7 @@ function Body() {
                 <h1> Home </h1>
             </div>
             </AnimatedOnScroll>
-            <AnimatedOnScroll animationIn="fadeIn" animationOut="fadeOut" animationInDuration={600}>
+            <AnimatedOnScroll animationIn="slideInUp" animationInDuration={1000}>
             <div className="homediv">
                 <h2>test</h2>
                 <h2>test</h2>

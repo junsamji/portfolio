@@ -23,8 +23,8 @@
 }
 
 .App-content {
+  padding-top: 65px;
   background-color: transparent;
-  color: #61dafb;
   margin: auto;
 }
 
