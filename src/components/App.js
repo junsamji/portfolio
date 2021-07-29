@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React from 'react';
 import { BrowserRouter, Route, Switch } from 'react-router-dom';
 import {AnimatedOnScroll} from "react-animated-css-onscroll";
 
