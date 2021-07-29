@@ -1,8 +1,9 @@
 import React from 'react';
+import './About.css';
 
 function About(){
     return (
-        <div>
+        <div className="about-header">
             <h1>About</h1>
         </div>
     );
