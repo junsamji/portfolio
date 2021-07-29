@@ -14,11 +14,11 @@ const Nav = styled.nav`
   }
 `
 
-const Navbar = () => {
+const Navbar = (props) => {
   return (
     <Nav>
       <div className="logo">
-        PF
+        Junsam Ji
       </div>
       <Burger />
     </Nav>

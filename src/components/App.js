@@ -10,13 +10,11 @@ import NotFound from './Pages/NotFound';
 import './App.css';
 
 function App() {
-  const [path, setPath] = useState("/");
-
   return (
     <div id="wrap">
       <BrowserRouter basename="/portfolio">
         <div id="header" className="App-header">
-        <Navbar />
+        <Navbar/>
         </div>
         <AnimatedOnScroll animationIn="fadeIn" animationInDuration={1000}>
         <div id="container" className="App-content">

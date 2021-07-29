@@ -28,18 +28,9 @@
   margin: auto;
 }
 
-.App-menu {
-  margin-right: 10px;
-}
-
 a {
   text-decoration: none;
-  color:#61dafb;
-}
-
-div .sticky {
-  position: sticky;
-  top:0px;
+  color:#fff;
 }
 
 @keyframes App-logo-spin {

@@ -1,4 +1,4 @@
-import React, {useState} from 'react';
+import React, {useState, useEffect} from 'react';
 import styled from 'styled-components';
 import { Link } from 'react-router-dom';
 
@@ -13,29 +13,37 @@ const Ul = styled.ul`
 
   @media {
     flex-flow: column nowrap;
-    background-color: #0D2538;
+    background-color: #282c34;
     position: fixed;
     transform: ${({ open }) => open ? 'translateX(0)' : 'translateX(100%)'};
+    
     top: 0;
     right: 0;
     height: 100vh;
-    width: 300px;
+    width: 20vw;
     padding-top: 3.5rem;
     transition: transform 0.3s ease-in-out;
-    
-    li {
-      color: #fff;
-    }
   }
 `;
-const RightNav = ({ open }) => {
-  
+const RightNav = (props) => {
+  console.log(props.func);
+  const menus = [
+    { name: "Home", path: "/" },
+    { name: "About Us", path: "/about" },
+    { name: "Contact Us", path: "/contract" }
+  ];
+
+  const clickHandler = () => {
+    props.func();
+  }
 
   return (
-    <Ul open={open}>
-      <li><Link to="/">Home</Link></li>
-      <li><Link to="/about">About Us</Link></li>
-      <li><Link to="/contract">Contact Us</Link></li>
+    <Ul open={props.open}>
+      {menus.map((menu, index) => {
+        return (
+          <li><Link to={menu.path} key={index} onClick={() => clickHandler()}>{menu.name}</Link></li>
+        );
+      })}
     </Ul>
   )
 }
