@@ -1,9 +1,11 @@
 import React from 'react';
+import {AnimatedOnScroll} from "react-animated-css-onscroll";
 
 import Bipex from '../../assets/Bn.png'
 
 function Bn() {
     return(
+        <AnimatedOnScroll animationIn="fadeIn" animationOut="fadeOut" animationInDuration={2000}>
         <div>
             <div><img src={Bipex}/></div>
             <div>
@@ -22,6 +24,7 @@ function Bn() {
                 <h2>- 자산관리 시스템</h2>
             </div>
         </div>
+        </AnimatedOnScroll>
     );
 }
 
