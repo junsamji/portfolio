@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.10a93677.chunk.css",
-    "main.js": "/portfolio/static/js/main.ec65519c.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.ec65519c.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.3989ae25.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.3989ae25.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.a9f76519.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.a9f76519.js.map",
     "static/js/2.87654f0b.chunk.js": "/portfolio/static/js/2.87654f0b.chunk.js",
@@ -11,12 +11,13 @@
     "static/css/main.10a93677.chunk.css.map": "/portfolio/static/css/main.10a93677.chunk.css.map",
     "static/js/2.87654f0b.chunk.js.LICENSE.txt": "/portfolio/static/js/2.87654f0b.chunk.js.LICENSE.txt",
     "static/media/Sejung.6c2babb3.png": "/portfolio/static/media/Sejung.6c2babb3.png",
-    "static/media/hancom.b1be3804.png": "/portfolio/static/media/hancom.b1be3804.png"
+    "static/media/hancom.b1be3804.png": "/portfolio/static/media/hancom.b1be3804.png",
+    "static/media/sas.483fdf01.png": "/portfolio/static/media/sas.483fdf01.png"
   },
   "entrypoints": [
     "static/js/runtime-main.a9f76519.js",
     "static/js/2.87654f0b.chunk.js",
     "static/css/main.10a93677.chunk.css",
-    "static/js/main.ec65519c.chunk.js"
+    "static/js/main.3989ae25.chunk.js"
   ]
 }
