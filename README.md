@@ -2,7 +2,7 @@
 
 - 이름 : 지준삼 (1984년생)
 
-- 직무 경력 : 2011.11.01 ~ 재직중
+- 직무 경력 : 2013.10.01 ~ 재직중
 
 - Skill & Tool
   - Java, JavaScript, VisualBasic, C#
@@ -11,49 +11,11 @@
   - Docker, Jenkins
 
 - 경력
-
-  - [Bn그룹 바이펙스 (2011.11 ~ 2013.09)](#Bn)
   
   - [세정그룹 세정I&C (2013.10 ~ 2019.08)](#세정-ic)
 
   - [(주)한글과컴퓨터 (2019.09 ~)](#한글과컴퓨터)
-  
-  
-  ##
-  # Bn
-  
-  ![history-1](assets/Bn.png)
-
-  ### 주요 수행 업무 
-
-  - ERP개발 및 운영
-  
-  - 그룹웨어 시스템 운영 (IBM Lotus Notes Solution)
-
-
-  ### 프로젝트
-
-  #### ▷Cargo System
-  
-  - B/L관리, Order관리, 세금계산서관리 프로그램 개발
-  
-    `C# ASP.NET, MSSQL, DevExpress Component`
-  
-   
-  #### ▷CCM ( 골프장 통합관리 - 레이포드CC )
-  
-  - 직원관리, 캐디관리, 회원관리, 예약/문자발송 시스템 개발
-  
-    `VB.NET, Oracle, Farpoint Spread` 
-
-
-  #### ▷자산관리 시스템
-  
-  - 전사 통합 자산관리 (자산등록, 자산지급, 자산반납, 자산이동, 자산폐기 등)
-  
-    `VB.NET, MSSQL, Farpoint Spread`
-  
-   
+    
   
   
   ##
