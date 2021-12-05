@@ -8,7 +8,7 @@
   - Java, JavaScript, VisualBasic, C#
   - Spring, SpringBoot, .NET
   - Oracle, MSSQL
-  - Docker, Jenkins
+  - Git, Docker, Jenkins
 
 - 경력
   
